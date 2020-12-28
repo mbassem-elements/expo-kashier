@@ -1,4 +1,4 @@
-package com.expokashier;
+package expo.kashier;
 
 import android.os.Bundle;
 
