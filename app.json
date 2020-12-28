@@ -1,0 +1,12 @@
+{
+  "name": "expo-kashier",
+  "displayName": "expo-kashier",
+  "expo": {
+    "name": "expo-kashier",
+    "slug": "expo-kashier",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
